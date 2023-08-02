@@ -16,7 +16,8 @@
 - Ask me about **C,C++,React,HTML ,CSS**
 
 - 📫 How to reach me **mehaksangal@gmail.com**
-- - 👨‍💻 All of my projects are available at [https://mehaksangalportfolio.netlify.app/](https://mehaksangalportfolio.netlify.app/)
+-  All of my projects are available at [https://mehaksangalportfolio.netlify.app/](https://mehaksangalportfolio.netlify.app/)
+
 - Fun fact **I think I am Funny**
 
 
