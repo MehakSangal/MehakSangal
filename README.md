@@ -10,12 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehaksangal&label=Profile%20views&color=0e75b6&style=flat" alt="mehaksangal" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React**
 - Ask me about **C,C++,React,HTML ,CSS**
 
 - 📫 How to reach me **mehaksangal@gmail.com**
+- - 👨‍💻 All of my projects are available at [https://mehaksangalportfolio.netlify.app/](https://mehaksangalportfolio.netlify.app/)
 - Fun fact **I think I am Funny**
 
 
